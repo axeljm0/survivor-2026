@@ -47,5 +47,5 @@ La base de datos puede visualizarse con herramientas como SQLiteStudio o DB Brow
 
 ## Autor
 
-Axel Jiménez
+Axel Jiménez y Vitchini Julian Mancebo
 Proyecto académico de programación.
